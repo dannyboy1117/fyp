@@ -1,0 +1,37 @@
+body, html{
+    width: 100vw;
+    height: 100vh;
+}
+
+.header{
+    background: #394fcc;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.header a{
+    color: #bdbdbd;
+}
+
+.header a:hover{
+    color: #e8e8e8;
+}
+
+.header .active{
+    color: white !important;
+}
+
+.content{
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 60px;
+}
+
+.table-container{
+    width: 100%;
+    margin: auto;
+}
+
+.label{
+    text-align: center;
+}
